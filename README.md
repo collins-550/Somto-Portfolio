@@ -15,7 +15,7 @@ I'm passionate about threat detection, incident response, and defensive security
 - **SIEM**: Splunk, Elastic Stack, Microsoft Sentinel
 - **Operating Systems**: Kali Linux, Windows, Ubuntu
 - **Scripting**: Python, Bash
-- **Others**: Wireshark, Burp Suite, VirtualBox
+- **Others**: Wireshark, Burp Suite, VMware
 
 ## 📂 What I'm Working On
 - Cybersecurity Notes & Cheat Sheets 
