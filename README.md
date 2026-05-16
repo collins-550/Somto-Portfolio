@@ -25,10 +25,11 @@ Currently Learning
 - Python & Bash Scripting for Security Automation
 - Log Analysis and Detection Engineering
 
-Projects & Repositories
-- My Cybersecurity Notes (https://github.com/collins-550/My-first-project) 
-- Home Lab Documentation (Coming soon)
-- Threat Hunting Queries (Coming soon)
+What I'm Working On
+- Collection of notes, commands, cheat sheets, and learning resources for SOC Analyst path.
+- Home Lab Setup
+- Threat Hunting & Detection Queries
+- Blue Team Automation Scripts
 
 Tools & Technologies
 - SIEM: Splunk, Elastic Stack
